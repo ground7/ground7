@@ -22,14 +22,15 @@
 <a href="https://www.paloaltonetworks.com/prisma/cloud" target="_blank"><img src="https://www.vectorlogo.zone/logos/twistlock/twistlock-icon.svg" alt="twistlock" width="40" height="40"/></a>
 <a href="https://anchore.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/anchoreio/anchoreio-icon.svg" alt="anchore" width="40" height="40"/></a>
 <a href="https://www.nginx.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="40" height="40"/></a>
+<a href="https://www.openldap.org/" target="_blank"><img src="https://www.saashub.com/images/app/service_logos/48/835914988856/large.png?1557268823" alt="openldap" width="40" height="40"/></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" alt="bash" width="100" height="40"/></a> </h3>
 <h3 align="center">
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/></a>
 <a href="https://www.raspberrypi.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberrypi" width="40" height="40"/></a>
 <a href="https://www.gimp.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" alt="gimp" width="40" height="40"/></a>
-<a href="https://inkscape.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/inkscape/inkscape-icon.svg" alt="inkscape" width="40" height="40"/></a>>
+<a href="https://inkscape.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/inkscape/inkscape-icon.svg" alt="inkscape" width="40" height="40"/></a>
 </h3>
 <h3 align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ground7&show_icons=true&locale=en&theme=dark&count_private=true" alt="ground7"/>
