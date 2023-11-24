@@ -6,8 +6,8 @@
 <a href="https://helm.sh/" target="_blank"><img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" width="40" height="40"/></a>
 <a href="https://fluxcd.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/fluxcdio/fluxcdio-icon.svg" alt="fluxcd" width="40" height="40"/></a>
 <a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
-<a href="https://jfrog.com/artifactory/" target="_blank"><img src="https://avatars.githubusercontent.com/u/38656520?s=200&v=4" alt="artifactory" width="40" height="40"/></a>
-<a href="https://www.whitesourcesoftware.com/free-developer-tools/renovate/" target="_blank"><img src="https://github.com/AliasIO/Wappalyzer/blob/master/src/drivers/webextension/images/icons/Artifactory.svg" alt="renovate" width="40" height="40"/></a>
+<a href="https://jfrog.com/artifactory/" target="_blank"><img src="https://logos.prod-v1.vertice.one/45ad02fa-888d-5851-9986-1ccadfebb2f7.svg" alt="artifactory" width="40" height="40"/></a>
+<a href="https://www.whitesourcesoftware.com/free-developer-tools/renovate/" target="_blank"><img src="https://avatars.githubusercontent.com/u/38656520?s=200&v=4" alt="renovate" width="40" height="40"/></a>
 </h3>
 <h3 align="center">
 <a href="https://prometheus.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/></a>
