@@ -33,6 +33,3 @@
 <a href="https://www.gimp.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" alt="gimp" width="40" height="40"/></a>
 <a href="https://inkscape.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/inkscape/inkscape-icon.svg" alt="inkscape" width="40" height="40"/></a>
 </h3>
-<h3 align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ground7&show_icons=true&locale=en&theme=dark&count_private=true" alt="ground7"/>
-</h3>
